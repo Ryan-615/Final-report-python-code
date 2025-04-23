@@ -1,5 +1,5 @@
 # Final-report-python-code
-This is the experiment code for my final report， the detail in the master.
+This is the experiment code for my final report. All source code and datasets for this project are located in the **`master` branch** of this repository.
 ## License & Copyright
 All code and data in this repository were authored by Zihao Yang in April 2025 for an academic final report.
 
